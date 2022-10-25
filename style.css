@@ -1,0 +1,14 @@
+button
+{
+    background-color: white;
+    border-radius: 50px;
+    height: 45px;
+    width: 50%;
+    margin: 10px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
